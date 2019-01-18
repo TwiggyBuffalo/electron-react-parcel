@@ -1,0 +1,7 @@
+{
+  "extends": "nitpicky",
+  "rules": {
+      "unicorn/filename-case": "ignore",
+      "security/detect-object-injection": "ignore"
+  }
+}

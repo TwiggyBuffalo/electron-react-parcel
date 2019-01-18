@@ -1,0 +1,56 @@
+{
+  "name": "electron-react-base",
+  "version": "1.0.0",
+  "main": "./electron-start.js",
+  "homepage": "./",
+  "dependencies": {
+    "electron": "^4.0.1",
+    "electron-reload": "^1.4.0",
+    "foreman": "^3.0.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "@babel/polyfill": "^7.2.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^5.11.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-nitpicky": "^3.4.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-compat": "^2.6.3",
+    "eslint-plugin-flowtype": "^3.2.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-unicorn": "^6.0.1",
+    "parcel-bundler": "^1.11.0",
+    "parcel-plugin-asset-copier": "^1.0.0",
+    "parcel-plugin-bundle-visualiser": "^1.2.0",
+    "postcss-import": "^12.0.1",
+    "postcss-modules": "^1.4.1",
+    "prettier": "^1.15.3",
+    "prettier-eslint-cli": "^4.7.1",
+    "stylelint": "^9.9.0",
+    "stylelint-config-recommended": "^2.1.0"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html -p 5000",
+    "dev": "nf start",
+    "electron": "electron ./electron-start"
+  },
+  "assetsPath": "src/static",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

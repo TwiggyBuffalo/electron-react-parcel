@@ -1,0 +1,9 @@
+{
+    "extends": "stylelint-config-recommended",
+    "rules": {
+        "font-family-no-missing-generic-family-keyword": null,
+        "selector-pseudo-class-no-unknown": [true, {
+            "ignorePseudoClasses": ["global"]
+        }]  
+    }
+}
