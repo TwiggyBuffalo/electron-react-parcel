@@ -5,7 +5,7 @@ A simple lightweight example of how [Electron](https://electronjs.org/) and [Rea
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents))
+- [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Why](#why)
   - [Install](#install)
