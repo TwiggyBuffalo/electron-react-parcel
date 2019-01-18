@@ -5,8 +5,7 @@ A simple lightweight example of how [Electron](https://electronjs.org/) and [Rea
 
 ## Table of Contents
 
-- [electron-react-parcel](#electron-react-parcel)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents))
   - [About](#about)
   - [Why](#why)
   - [Install](#install)
@@ -26,8 +25,8 @@ Easy to use, lightweight electron starter project to get you quickly into creati
 ## Install
 
 ```sh
-git clone https://github.com/TwiggyBuffalo/electron-react-parcel.git
-cd electron-react-parcel
+$ git clone https://github.com/TwiggyBuffalo/electron-react-parcel.git
+$ cd electron-react-parcel
 ```
 
 **Install dependencies with yarn**
