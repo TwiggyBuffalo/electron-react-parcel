@@ -1,3 +1,5 @@
+<img src="src/banner.png" alt="electron-react-parcel">
+
 # electron-react-parcel
 A simple lightweight example of how [Electron](https://electronjs.org/) and [React](https://recatjs.org/) can be used to create cross-platform applications
 
