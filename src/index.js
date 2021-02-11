@@ -1,8 +1,8 @@
-import React from 'react'
-import { render } from 'react-dom'
-import styles from './index.css'
-import logoReact from './react.svg'
-import logoElectron from './electron.svg'
+import React from "react";
+import { render } from "react-dom";
+import styles from "./index.css";
+import logoReact from "./static/react.svg";
+import logoElectron from "./static/electron.svg";
 
 const App = () => (
   <div className={styles.app}>
@@ -36,6 +36,6 @@ const App = () => (
       </div>
     </header>
   </div>
-)
+);
 
-render(<App />, document.getElementById('root'))
+render(<App />, document.getElementById("root"));
