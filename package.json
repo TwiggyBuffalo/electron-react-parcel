@@ -4,12 +4,12 @@
   "main": "./electron-start.js",
   "homepage": "./",
   "dependencies": {
+    "@babel/polyfill": "^7.2.5",
     "electron": "^9.4.0",
     "electron-reload": "^1.4.0",
     "foreman": "^3.0.1",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "@babel/polyfill": "^7.2.5"
+    "react-dom": "^16.7.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
