@@ -9,8 +9,8 @@
     "electron-reload": "^1.4.0",
     "eslint-config-erb": "^2.0.0",
     "foreman": "^3.0.1",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
