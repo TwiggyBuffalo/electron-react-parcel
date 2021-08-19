@@ -39,7 +39,7 @@
     "postcss-modules": "^1.4.1",
     "prettier": "2.3.2",
     "prettier-eslint-cli": "^4.7.1",
-    "stylelint": "^9.9.0",
+    "stylelint": "13.13.1",
     "stylelint-config-recommended": "5.0.0"
   },
   "scripts": {
