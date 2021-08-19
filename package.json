@@ -7,7 +7,7 @@
     "@babel/polyfill": "^7.2.5",
     "electron": "^13.0.0",
     "electron-reload": "^1.4.0",
-    "eslint-config-erb": "^2.0.0",
+    "eslint-config-erb": "^3.0.0",
     "foreman": "^3.0.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
