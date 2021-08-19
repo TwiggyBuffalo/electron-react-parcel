@@ -36,7 +36,7 @@
     "parcel-plugin-asset-copier": "^1.0.0",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
     "postcss-import": "14.0.2",
-    "postcss-modules": "^1.4.1",
+    "postcss-modules": "4.2.2",
     "prettier": "2.3.2",
     "prettier-eslint-cli": "^4.7.1",
     "stylelint": "13.13.1",
