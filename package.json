@@ -31,7 +31,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-promise": "5.1.0",
     "eslint-plugin-react": "7.24.0",
-    "eslint-plugin-unicorn": "35.0.0",
+    "eslint-plugin-unicorn": "37.0.1",
     "parcel-bundler": "1.12.5",
     "parcel-plugin-asset-copier": "^1.0.0",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
