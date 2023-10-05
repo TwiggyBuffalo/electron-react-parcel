@@ -5,7 +5,7 @@
   "homepage": "./",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "electron": "^13.0.0",
+    "electron": "^22.0.0",
     "electron-reload": "^1.4.0",
     "eslint-config-erb": "^3.0.0",
     "foreman": "^3.0.1",
